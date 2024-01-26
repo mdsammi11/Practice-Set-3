@@ -1,0 +1,42 @@
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+} */
+body{
+    background-color:blue;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+div{
+    height: 60px;
+    width: 100%;
+    background-color:black;
+    border-width:2px;
+    border-style: solid;
+    border-color: white;
+}
+li{
+    display: inline;
+}
+#a1{
+    text-decoration: none;
+    color:darkgoldenrod;
+}
+#a2{
+    text-decoration: none;
+    color: white;
+}
+#a3{
+    text-decoration: none;
+    color: white;
+}
+#a4{
+    text-decoration: none;
+    color: white;
+}
+button{
+    background-color: rgb(210, 155, 53);
+    color: white;
+}
